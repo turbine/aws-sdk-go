@@ -5,8 +5,8 @@ package route53iface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/route53"
-	"github.com/aws/aws-sdk-go/service/route53/route53iface"
+	"github.com/turbine/aws-sdk-go/service/route53"
+	"github.com/turbine/aws-sdk-go/service/route53/route53iface"
 	"github.com/stretchr/testify/assert"
 )
 

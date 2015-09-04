@@ -8,12 +8,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/corehandlers"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/service"
+	"github.com/turbine/aws-sdk-go/aws"
+	"github.com/turbine/aws-sdk-go/aws/awserr"
+	"github.com/turbine/aws-sdk-go/aws/corehandlers"
+	"github.com/turbine/aws-sdk-go/aws/credentials"
+	"github.com/turbine/aws-sdk-go/aws/request"
+	"github.com/turbine/aws-sdk-go/aws/service"
 )
 
 func TestValidateEndpointHandler(t *testing.T) {

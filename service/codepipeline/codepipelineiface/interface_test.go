@@ -5,8 +5,8 @@ package codepipelineiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/codepipeline"
-	"github.com/aws/aws-sdk-go/service/codepipeline/codepipelineiface"
+	"github.com/turbine/aws-sdk-go/service/codepipeline"
+	"github.com/turbine/aws-sdk-go/service/codepipeline/codepipelineiface"
 	"github.com/stretchr/testify/assert"
 )
 

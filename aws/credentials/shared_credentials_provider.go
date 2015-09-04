@@ -7,7 +7,7 @@ import (
 
 	"github.com/vaughan0/go-ini"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
+	"github.com/turbine/aws-sdk-go/aws/awserr"
 )
 
 var (

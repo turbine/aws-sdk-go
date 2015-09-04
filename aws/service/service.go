@@ -8,11 +8,11 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/corehandlers"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/service/serviceinfo"
-	"github.com/aws/aws-sdk-go/internal/endpoints"
+	"github.com/turbine/aws-sdk-go/aws"
+	"github.com/turbine/aws-sdk-go/aws/corehandlers"
+	"github.com/turbine/aws-sdk-go/aws/request"
+	"github.com/turbine/aws-sdk-go/aws/service/serviceinfo"
+	"github.com/turbine/aws-sdk-go/internal/endpoints"
 )
 
 // A Service implements the base service request and response handling

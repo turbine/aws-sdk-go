@@ -3,13 +3,13 @@
 package autoscaling
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/defaults"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/aws/service"
-	"github.com/aws/aws-sdk-go/aws/service/serviceinfo"
-	"github.com/aws/aws-sdk-go/internal/protocol/query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/turbine/aws-sdk-go/aws"
+	"github.com/turbine/aws-sdk-go/aws/defaults"
+	"github.com/turbine/aws-sdk-go/aws/request"
+	"github.com/turbine/aws-sdk-go/aws/service"
+	"github.com/turbine/aws-sdk-go/aws/service/serviceinfo"
+	"github.com/turbine/aws-sdk-go/internal/protocol/query"
+	"github.com/turbine/aws-sdk-go/internal/signer/v4"
 )
 
 // Auto Scaling is designed to automatically launch or terminate EC2 instances

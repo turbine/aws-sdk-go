@@ -5,8 +5,8 @@ package dynamodbiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/dynamodb"
-	"github.com/aws/aws-sdk-go/service/dynamodb/dynamodbiface"
+	"github.com/turbine/aws-sdk-go/service/dynamodb"
+	"github.com/turbine/aws-sdk-go/service/dynamodb/dynamodbiface"
 	"github.com/stretchr/testify/assert"
 )
 

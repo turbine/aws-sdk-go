@@ -4,8 +4,8 @@
 package cognitosynciface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/cognitosync"
+	"github.com/turbine/aws-sdk-go/aws/request"
+	"github.com/turbine/aws-sdk-go/service/cognitosync"
 )
 
 // CognitoSyncAPI is the interface type for cognitosync.CognitoSync.

@@ -2,8 +2,8 @@
 package elastictranscoder
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/elastictranscoder"
+	"github.com/turbine/aws-sdk-go/internal/features/shared"
+	"github.com/turbine/aws-sdk-go/service/elastictranscoder"
 	. "github.com/lsegal/gucumber"
 )
 

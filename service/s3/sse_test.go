@@ -3,10 +3,10 @@ package s3_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/internal/test/unit"
-	"github.com/aws/aws-sdk-go/service/s3"
+	"github.com/turbine/aws-sdk-go/aws"
+	"github.com/turbine/aws-sdk-go/aws/awserr"
+	"github.com/turbine/aws-sdk-go/internal/test/unit"
+	"github.com/turbine/aws-sdk-go/service/s3"
 	"github.com/stretchr/testify/assert"
 )
 

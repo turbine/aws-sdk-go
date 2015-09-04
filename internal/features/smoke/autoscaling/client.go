@@ -2,8 +2,8 @@
 package autoscaling
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/autoscaling"
+	"github.com/turbine/aws-sdk-go/internal/features/shared"
+	"github.com/turbine/aws-sdk-go/service/autoscaling"
 	. "github.com/lsegal/gucumber"
 )
 

@@ -5,8 +5,8 @@ package codecommitiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/codecommit"
-	"github.com/aws/aws-sdk-go/service/codecommit/codecommitiface"
+	"github.com/turbine/aws-sdk-go/service/codecommit"
+	"github.com/turbine/aws-sdk-go/service/codecommit/codecommitiface"
 	"github.com/stretchr/testify/assert"
 )
 

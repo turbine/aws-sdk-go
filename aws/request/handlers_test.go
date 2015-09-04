@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/turbine/aws-sdk-go/aws"
+	"github.com/turbine/aws-sdk-go/aws/request"
 )
 
 func TestHandlerList(t *testing.T) {

@@ -5,8 +5,8 @@ package redshiftiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/redshift"
-	"github.com/aws/aws-sdk-go/service/redshift/redshiftiface"
+	"github.com/turbine/aws-sdk-go/service/redshift"
+	"github.com/turbine/aws-sdk-go/service/redshift/redshiftiface"
 	"github.com/stretchr/testify/assert"
 )
 

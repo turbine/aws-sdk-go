@@ -5,8 +5,8 @@ package elasticbeanstalkiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/elasticbeanstalk"
-	"github.com/aws/aws-sdk-go/service/elasticbeanstalk/elasticbeanstalkiface"
+	"github.com/turbine/aws-sdk-go/service/elasticbeanstalk"
+	"github.com/turbine/aws-sdk-go/service/elasticbeanstalk/elasticbeanstalkiface"
 	"github.com/stretchr/testify/assert"
 )
 

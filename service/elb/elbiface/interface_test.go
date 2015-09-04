@@ -5,8 +5,8 @@ package elbiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/elb"
-	"github.com/aws/aws-sdk-go/service/elb/elbiface"
+	"github.com/turbine/aws-sdk-go/service/elb"
+	"github.com/turbine/aws-sdk-go/service/elb/elbiface"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,9 +5,9 @@ package dynamodb
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/dynamodb"
-	"github.com/aws/aws-sdk-go/service/dynamodb/dynamodbattribute"
+	"github.com/turbine/aws-sdk-go/aws"
+	"github.com/turbine/aws-sdk-go/service/dynamodb"
+	"github.com/turbine/aws-sdk-go/service/dynamodb/dynamodbattribute"
 )
 
 const testPutItemCount = 5000

@@ -5,8 +5,8 @@ package cloudwatchlogsiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
-	"github.com/aws/aws-sdk-go/service/cloudwatchlogs/cloudwatchlogsiface"
+	"github.com/turbine/aws-sdk-go/service/cloudwatchlogs"
+	"github.com/turbine/aws-sdk-go/service/cloudwatchlogs/cloudwatchlogsiface"
 	"github.com/stretchr/testify/assert"
 )
 

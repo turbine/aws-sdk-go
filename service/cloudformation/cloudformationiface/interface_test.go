@@ -5,8 +5,8 @@ package cloudformationiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/cloudformation"
-	"github.com/aws/aws-sdk-go/service/cloudformation/cloudformationiface"
+	"github.com/turbine/aws-sdk-go/service/cloudformation"
+	"github.com/turbine/aws-sdk-go/service/cloudformation/cloudformationiface"
 	"github.com/stretchr/testify/assert"
 )
 

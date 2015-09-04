@@ -5,8 +5,8 @@ package cloudfrontiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/cloudfront"
-	"github.com/aws/aws-sdk-go/service/cloudfront/cloudfrontiface"
+	"github.com/turbine/aws-sdk-go/service/cloudfront"
+	"github.com/turbine/aws-sdk-go/service/cloudfront/cloudfrontiface"
 	"github.com/stretchr/testify/assert"
 )
 

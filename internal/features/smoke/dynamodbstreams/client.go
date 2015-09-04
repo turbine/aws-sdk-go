@@ -2,8 +2,8 @@
 package dynamodbstreams
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/dynamodbstreams"
+	"github.com/turbine/aws-sdk-go/internal/features/shared"
+	"github.com/turbine/aws-sdk-go/service/dynamodbstreams"
 	. "github.com/lsegal/gucumber"
 )
 

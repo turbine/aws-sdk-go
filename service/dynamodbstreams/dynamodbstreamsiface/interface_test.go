@@ -5,8 +5,8 @@ package dynamodbstreamsiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/dynamodbstreams"
-	"github.com/aws/aws-sdk-go/service/dynamodbstreams/dynamodbstreamsiface"
+	"github.com/turbine/aws-sdk-go/service/dynamodbstreams"
+	"github.com/turbine/aws-sdk-go/service/dynamodbstreams/dynamodbstreamsiface"
 	"github.com/stretchr/testify/assert"
 )
 

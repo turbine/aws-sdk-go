@@ -5,8 +5,8 @@ package ec2iface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/ec2"
-	"github.com/aws/aws-sdk-go/service/ec2/ec2iface"
+	"github.com/turbine/aws-sdk-go/service/ec2"
+	"github.com/turbine/aws-sdk-go/service/ec2/ec2iface"
 	"github.com/stretchr/testify/assert"
 )
 

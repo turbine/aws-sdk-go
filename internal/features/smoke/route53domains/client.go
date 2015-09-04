@@ -2,8 +2,8 @@
 package route53domains
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/route53domains"
+	"github.com/turbine/aws-sdk-go/internal/features/shared"
+	"github.com/turbine/aws-sdk-go/service/route53domains"
 	. "github.com/lsegal/gucumber"
 )
 

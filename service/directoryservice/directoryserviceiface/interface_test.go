@@ -5,8 +5,8 @@ package directoryserviceiface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/directoryservice"
-	"github.com/aws/aws-sdk-go/service/directoryservice/directoryserviceiface"
+	"github.com/turbine/aws-sdk-go/service/directoryservice"
+	"github.com/turbine/aws-sdk-go/service/directoryservice/directoryserviceiface"
 	"github.com/stretchr/testify/assert"
 )
 

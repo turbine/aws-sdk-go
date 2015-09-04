@@ -5,8 +5,8 @@ package cognitosynciface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/cognitosync"
-	"github.com/aws/aws-sdk-go/service/cognitosync/cognitosynciface"
+	"github.com/turbine/aws-sdk-go/service/cognitosync"
+	"github.com/turbine/aws-sdk-go/service/cognitosync/cognitosynciface"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -2,8 +2,8 @@
 package swf
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/swf"
+	"github.com/turbine/aws-sdk-go/internal/features/shared"
+	"github.com/turbine/aws-sdk-go/service/swf"
 	. "github.com/lsegal/gucumber"
 )
 

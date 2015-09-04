@@ -5,8 +5,8 @@ package glacieriface_test
 import (
 	"testing"
 
-	"github.com/aws/aws-sdk-go/service/glacier"
-	"github.com/aws/aws-sdk-go/service/glacier/glacieriface"
+	"github.com/turbine/aws-sdk-go/service/glacier"
+	"github.com/turbine/aws-sdk-go/service/glacier/glacieriface"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,8 +4,8 @@
 package iamiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/iam"
+	"github.com/turbine/aws-sdk-go/aws/request"
+	"github.com/turbine/aws-sdk-go/service/iam"
 )
 
 // IAMAPI is the interface type for iam.IAM.

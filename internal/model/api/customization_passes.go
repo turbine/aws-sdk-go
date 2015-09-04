@@ -74,7 +74,7 @@ func dynamodbstreamsCustomizations(a *API) {
 
 	for n := range a.Shapes {
 		if _, ok := dbAPI.Shapes[n]; ok {
-			a.Shapes[n].resolvePkg = "github.com/aws/aws-sdk-go/service/dynamodb"
+			a.Shapes[n].resolvePkg = "github.com/turbine/aws-sdk-go/service/dynamodb"
 		}
 	}
 }
